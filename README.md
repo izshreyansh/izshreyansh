@@ -1,4 +1,4 @@
-##### *Good software is worth every penny it costs.<br><br>Time is the most limited resource we have, and if some software or apps help us reclaim more of life, they’re worth it.*
+#### *Good software is worth every penny it costs.<br><br>Time is the most limited resource we have, and if some software or apps help us reclaim more of life, they’re worth it.*
 
 &mdash; [@paraschopra](https://twitter.com/paraschopra/status/1425679315245551619?ref_src=twsrc%5Etfw)
 
